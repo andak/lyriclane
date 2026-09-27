@@ -1,2 +1,3 @@
 songs/chris-holsten-sla-hjerte-sla.txt
+songs/disney-fyll-ditt-sinn.txt
 songs/saraly-den-forste-som-sa.txt
