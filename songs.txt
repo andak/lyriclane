@@ -2,3 +2,4 @@ songs/chris-holsten-sla-hjerte-sla.txt
 songs/disney-fyll-ditt-sinn.txt
 songs/marius-muller-den-du-veit.txt
 songs/saraly-den-forste-som-sa.txt
+songs/zupermaria-fa-det-pa.txt
