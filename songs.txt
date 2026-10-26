@@ -3,4 +3,5 @@ songs/disney-fyll-ditt-sinn.txt
 songs/ingebjorg-bratland-jul-i-svingen.txt
 songs/marius-muller-den-du-veit.txt
 songs/saraly-den-forste-som-sa.txt
+songs/svingenkoret-santa-lucia.txt
 songs/zupermaria-fa-det-pa.txt

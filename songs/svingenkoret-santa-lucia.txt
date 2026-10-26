@@ -1,0 +1,52 @@
+title: Svingenkoret - Santa lucia
+singers: Naomi+Tale, Efrata+Ella, kor
+
+              // vers 1
+[Naomi+Tale]  Når mørket er som mørkest
+              Og ingen klokke slår
+              Da virker det som natten
+              Har vart i hundre år
+              Når alt er stille ute
+              Og solen har gått ned
+              Da kommer vi langs veien
+              I lyset vi har med
+
+              // refreng
+[*]           Santa Lucia
+              Santa Lucia
+              Når natten er sort
+              Så tenner vi lys
+              Og drar mørket bort
+
+              // vers 2
+[Efrata+Ella] Når alle stjerner lyser
+              Og himmelen er sort
+              Og ingen kan bli vant til
+              At dagen går så fort
+              Da kommer vi og synger
+              Med glad og vennlig røst
+              Et lys er tent i natten
+              Og gir deg håp og trøst
+
+              // refreng
+[*]           Santa Lucia
+              Santa Lucia
+              Når natten er sort
+              Så tenner vi lys
+              Og drar mørket bort
+
+              // mellomspill
+[]            ♪
+
+              // refreng
+[*]           Santa Lucia
+              Santa Lucia
+              Når natten er sort
+              Så tenner vi lys
+              Og drar mørket bort
+
+              Santa Lucia
+              Santa Lucia
+              Når natten er sort
+              Så tenner vi lys
+              Og drar mørket bort
